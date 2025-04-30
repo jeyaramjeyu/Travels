@@ -60,7 +60,7 @@
         margin-left: 0;
         color: black !important;
     }
-}     
+}   
 .service-item{
     box-shadow: 0 0 45px rgba(0,0,0,0.08);
     transition: 0.5s;
@@ -74,6 +74,11 @@
 .service-item:hover *{
     color: var(--light) !important
 }
+
+.container img {
+    width: 500px;
+}
+
 .footer .btn.btn-social {
     margin-right: 5px;
     width: 35px;
