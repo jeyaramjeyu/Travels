@@ -117,7 +117,7 @@
     background-size: cover;
 }
 .team-item{
-    box-shadow: 0 0 45px rgba(0,0,0,0.08);
+    box-shadow: 0 0 45px rgba(236, 230, 230, 0.918);
 }
 .team-item img{
     transition: 0.5s;
